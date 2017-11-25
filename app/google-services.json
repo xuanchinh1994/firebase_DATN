@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "23645736268",
+    "firebase_url": "https://smart-anti-theft-device.firebaseio.com",
+    "project_id": "smart-anti-theft-device",
+    "storage_bucket": "smart-anti-theft-device.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:23645736268:android:47d605d6e9fc36bc",
+        "android_client_info": {
+          "package_name": "com.example.chinh.firebase_datn"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "23645736268-2bl354qq2i8sliitqvcb3mn9099j43ji.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.chinh.firebase_datn",
+            "certificate_hash": "21b785bb5adfadf0b1c3db1f086ff10a069fd8a0"
+          }
+        },
+        {
+          "client_id": "23645736268-fj5fqctrbftl3su61h46kvdpikskq2fi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyClH-ieQ44R2FaLDxdxCWpON44zyLsgRYk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "23645736268-fj5fqctrbftl3su61h46kvdpikskq2fi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
